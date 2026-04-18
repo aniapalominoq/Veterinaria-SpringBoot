@@ -26,4 +26,3 @@
 ## Melania
 - Rama: melaniaDev
 - Módulo: Gestión de Propietarios
-

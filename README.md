@@ -7,11 +7,23 @@
 | Henry      | henryDev    |                        |
 | Arnol      | arnolDev    |                        |
 | Joel       | joelDev     |                        |
-| Malania    | malaniaDev  |                        |
+| Melania    | melaniaDev  |                        |
 
 ---
 
 ## Henry
-- Rama: `henryDev`
+- Rama: henryDev
 - Módulo: Gestión de Pacientes (mascotas)
+
+## Arnol
+- Rama: arnolDev
+- Módulo: Gestión de Veterinarios
+
+## Joel
+- Rama: joelDev
+- Módulo: Gestión de Citas
+
+## Melania
+- Rama: melaniaDev
+- Módulo: Gestión de Propietarios
 
